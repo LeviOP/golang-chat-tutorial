@@ -1,5 +1,5 @@
 // 👇 PS! Replace this with your own channel ID 🚨
-const CLIENT_ID = 'YOUR_SCALEDRONE_ID';
+const CLIENT_ID = 'xpB7shez9YJ488Q8';
 
 // public room
 const PUBLIC_ROOM_NAME = 'observable-room';
